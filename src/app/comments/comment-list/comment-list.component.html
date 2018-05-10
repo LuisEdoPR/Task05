@@ -1,0 +1,4 @@
+<ul>
+    <app-card *ngFor="let comment of comments$ | async"
+              [field]="comment"></app-card>
+</ul>

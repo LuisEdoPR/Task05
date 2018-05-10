@@ -1,4 +1,15 @@
-div {
+.mainDiv {
     color: darkblue;
-    font-size:50px
+    font-size: 12px;
+    width: 49%;
+    float: left;
+    border: 1px solid lightgrey;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: 1px solid lightgray;
+    margin: 0;
+    padding: 10px;
+    background-color: burlywood;
 }
